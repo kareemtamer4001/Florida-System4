@@ -634,3 +634,4 @@ client.on("message", message => {
 
      
 });
+client.login('TOKEN');
