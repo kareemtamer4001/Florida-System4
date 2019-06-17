@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : iiLord_YT...?? ..#0061  ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`--___--`,"http://twitch.tv/S-F")
+client.user.setGame(`𝑭𝑳𝑶𝑹𝑰𝑫𝑨 𝑪𝑳𝑼𝑩`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
 
